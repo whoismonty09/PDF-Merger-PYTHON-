@@ -47,4 +47,4 @@ python PDFMerger.py
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**
+Developed by Monty
